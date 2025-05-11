@@ -1,2 +1,2 @@
-@echo on
+@echo off
 npm install
